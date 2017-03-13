@@ -1,0 +1,9 @@
+{
+    "scopeName": "*",
+    "name": "mention",
+    "injectionSelector": "comment",
+    "patterns": [{
+        "match": "@[A-Za-z0-9]+" ,
+        "name": "storage.type.class.meta.tag"
+        }]
+}

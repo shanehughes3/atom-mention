@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mention",
+          "submenu": [
+            {
+              "label": "Refresh",
+              "command": "mention:setGrammar"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

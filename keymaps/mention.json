@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-cmd-m": "mention:setGrammar"
+  }
+}
